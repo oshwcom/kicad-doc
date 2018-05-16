@@ -1,0 +1,6 @@
+PO4A-HEADER: mode=after; position=^\[\[contributors\]\]; beginboundary=\[\[
+[[translation]]
+*翻译*
+
+//Translators put your names below here in the addendum file
+Liu Huanyin <chris@oshw.com>, 2012,2018.
